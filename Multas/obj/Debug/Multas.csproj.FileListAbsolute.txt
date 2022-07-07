@@ -1,0 +1,8 @@
+C:\Users\elman\source\repos\Multas\Multas\bin\Debug\Multas.exe.config
+C:\Users\elman\source\repos\Multas\Multas\bin\Debug\Multas.exe
+C:\Users\elman\source\repos\Multas\Multas\bin\Debug\Multas.pdb
+C:\Users\elman\source\repos\Multas\Multas\obj\Debug\Multas.csproj.AssemblyReference.cache
+C:\Users\elman\source\repos\Multas\Multas\obj\Debug\Multas.csproj.SuggestedBindingRedirects.cache
+C:\Users\elman\source\repos\Multas\Multas\obj\Debug\Multas.csproj.CoreCompileInputs.cache
+C:\Users\elman\source\repos\Multas\Multas\obj\Debug\Multas.exe
+C:\Users\elman\source\repos\Multas\Multas\obj\Debug\Multas.pdb
